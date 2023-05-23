@@ -14,8 +14,8 @@ You are a professional Python teacher. Create me a 10 week python learning plan.
 #### Day 1: Python Basics
 
 - [x] Install Python and setup IDE (e.g., PyCharm, Jupyter Notebooks)
-- [ ] Learn about Variables and Basic Data Types (integers, floats, strings, booleans)
-- [ ] Mini Projects: Simple calculations, variable swaps, string manipulations
+- [x] Learn about Variables and Basic Data Types (integers, floats, strings, booleans)
+- [x] Mini Projects: Simple calculations, variable swaps, string manipulations
 
 #### Day 2: Data Structures
 
