@@ -19,8 +19,8 @@ You are a professional Python teacher. Create me a 10 week python learning plan.
 
 #### Day 2: Data Structures
 
-- [ ] Learn about Lists and Tuples
-- [ ] Mini Projects: List manipulations, tuple unpacking, simple problems involving lists/tuples
+- [x] Learn about Lists and Tuples
+- [x] Mini Projects: List manipulations, tuple unpacking, simple problems involving lists/tuples
 
 #### Day 3: More on Data Structures
 
