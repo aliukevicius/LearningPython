@@ -21,7 +21,8 @@
 				"ms-toolsai.jupyter-keymap",
 				"ms-toolsai.jupyter-renderers",
 				"streetsidesoftware.code-spell-checker",
-				"ms-azuretools.vscode-docker"
+				"ms-azuretools.vscode-docker",
+				"yzhang.markdown-all-in-one"
 			]
 		}
 	},
